@@ -29,11 +29,12 @@ powershell>
 Changes to be committed:
   (use "git restore --staged <file>..." to unstage)     
         new file:   test.txt
-## code to refresh with any external updates
-`git pull`
 
 # code to actually send the files to github
 ```powershell
 git commit -m 'description of commit'
 git push
 ```
+
+## code to refresh with any external updates
+`git pull`
