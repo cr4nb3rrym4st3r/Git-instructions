@@ -30,7 +30,7 @@ Changes to be committed:
   (use "git restore --staged <file>..." to unstage)     
         new file:   test.txt
 
-# code to actually send the files to github
+## code to actually send the files to github
 ```powershell
 git commit -m 'description of commit'
 git push
