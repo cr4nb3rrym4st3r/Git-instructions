@@ -15,7 +15,7 @@ git config --global pull.rebase false
 git config --global fetch.prune true 
 ```
 
-#code to bring down a repositore
+#code to bring down a repository
 ```powershell
 git clone https://github.com/usernameGeneration/aws-x6-demo.git
 ```
